@@ -69,4 +69,6 @@ a{
   top: 20px; /* Üstten boşluk */
   right: 20px; /* Sağdan boşluk */
   width: 300px; /* Card genişliği */
+}.app-sidebar{
+  position: fixed;
 }
